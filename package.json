@@ -1,7 +1,7 @@
 {
-  "name": "blear.__template__",
+  "name": "blear.polyfills.array",
   "version": "1.0.0",
-  "description": "blear.__template__ description",
+  "description": "blear.polyfills.array description",
   "scripts": {
     "live": "browser-sync start --config bs-config.js",
     "test": "node ./node_modules/.bin/karma start --single-run --browsers PhantomJS --reporters progress"
@@ -23,13 +23,13 @@
     "url": "http://ydr.me"
   },
   "contributors": [],
-  "homepage": "https://github.com/blearjs/blear.__template__",
+  "homepage": "https://github.com/blearjs/blear.polyfills.array",
   "repository": {
     "type": "git",
-    "url": "https://github.com/blearjs/blear.__template__"
+    "url": "https://github.com/blearjs/blear.polyfills.array"
   },
   "bugs": {
-    "url": "https://github.com/blearjs/blear.__template__/issues"
+    "url": "https://github.com/blearjs/blear.polyfills.array/issues"
   },
   "dependencies": {},
   "peerDependencies": {},
