@@ -1,1 +1,1 @@
-# blearjs polyfills array
+# blear.polyfills.array
