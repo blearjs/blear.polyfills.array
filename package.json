@@ -1,6 +1,6 @@
 {
   "name": "blear.polyfills.array",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "array polyfill to IE8",
   "scripts": {},
   "preferGlobal": false,
